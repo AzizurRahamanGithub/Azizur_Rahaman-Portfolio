@@ -392,8 +392,8 @@ img{
     margin-top: 25px;
     display: flex;
     width: 100%;
-    justify-content: space-around;
-    gap: 25px;
+   justify-content: center;
+    gap: 20px;
   }
   .social a i
   {
