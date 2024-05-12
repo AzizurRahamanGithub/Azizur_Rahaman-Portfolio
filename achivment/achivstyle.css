@@ -413,7 +413,7 @@ img {
 .row {
   display: flex;
   flex-direction: row;
-  gap: 10px;
+  gap: 20px;
   flex-wrap: wrap;
   margin-top: 50px;
 }
@@ -593,12 +593,12 @@ img {
   
   @media (max-width: 768px) {
    
-    .demo {
+/*     .demo {
       opacity: 0.6;
       width: 150px;
       height: 100px;
     }
-  
+   */
     .mySlides{
       width: 100%;
       max-height: 350px;
