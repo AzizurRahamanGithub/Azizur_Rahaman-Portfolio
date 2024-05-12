@@ -976,7 +976,7 @@ textarea.contact-input {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 60px;
   justify-content: center;
 }
 
