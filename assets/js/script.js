@@ -3,8 +3,8 @@
 
 
 /**
- * navbar toggle
- */
+  navbar toggle
+ **/
 
 const header = document.querySelector("[data-header]");
 const navToggleBtn = document.querySelector("[data-nav-toggle-btn]");
